@@ -1,0 +1,15 @@
+.cover__overlay {
+    background: #2A2C2F48;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%; 
+}
+
+.cover__overlay:hover {
+    background: #2A2C2F;
+}
+
+
