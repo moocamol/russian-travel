@@ -7,5 +7,5 @@
 ****
 
 
-* [Ссылка на макет в GitHub Pages](https://)
+* [Ссылка на макет в GitHub Pages](https://moocamol.github.io/russian-travel/index.html)
 
