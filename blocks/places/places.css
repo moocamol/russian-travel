@@ -3,32 +3,28 @@
     margin-top: 90px;
     flex-direction: column;
     align-items: center;
-    gap: 79px;
+    gap: 78px;
+    width: 984px;
 }
 
-@media (min-width: 1280px) {
-    .places {
-        width: 984px;
-    }
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
+@media (max-width: 1279px) {
     .places {
         width: 928px;
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media (max-width: 1023px) {
     .places {
+        margin-top: 91px;
         width: 720px;
         gap: 57px;
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media (max-width: 767px) {
     .places {
-        width: 288px;
-        gap: 50px;
+        width: 100%;
+        gap: 47px;
         margin-top: 64px;
     }
 }

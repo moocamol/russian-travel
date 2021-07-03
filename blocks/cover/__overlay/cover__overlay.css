@@ -1,15 +1,23 @@
 .cover__overlay {
-    background: #2A2C2F48;
+    background: #2A2C2F4D;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     width: 100%; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-decoration: none;
+    color: white;
 }
 
 .cover__overlay:hover {
     background: #2A2C2F;
+    opacity: 0.8;
 }
 
 

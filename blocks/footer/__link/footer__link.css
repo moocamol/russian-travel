@@ -1,0 +1,10 @@
+.footer__link {
+    text-decoration: none;
+    color: white;
+}
+
+@media (max-width: 1023px) {
+    .footer__link {
+        margin-right: 1px;
+    }
+}

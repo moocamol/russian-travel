@@ -1,5 +1,14 @@
 .content {
     display: flex;
     flex-direction: column;
-    align-items: center;    
+    align-items: center;  
+    max-width: 984px;
+    width: 100%;
+}
+
+
+@media (max-width: 1279px) {
+    .content {    
+        max-width: 928px;
+    }
 }

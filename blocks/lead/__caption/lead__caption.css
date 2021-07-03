@@ -1,23 +1,20 @@
 .lead__caption {
-    min-width: 158px;
     font-weight: normal;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    align-self: baseline;
-    margin-top: 7px;
+    margin-top: 5px;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media (max-width: 1023px) {
     .lead__caption {
         margin-left: 22px;
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media (max-width: 767px) {
     .lead__caption {
         margin-left: 17px;
-        font-size: 10px;
     }
 }
