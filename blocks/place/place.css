@@ -28,6 +28,6 @@
     .place {
         width: 320px;
         grid-template-columns: 1fr;
-        row-gap: 20px;
+        row-gap: 9px;
     }
 }
