@@ -13,7 +13,7 @@
 
 @media (max-width: 1279px) {
     .place__paragraph{
-        width: 435px;
+        width: 456px;
     }
 }
 
@@ -27,9 +27,11 @@
 @media (max-width: 767px) {
     .place__paragraph {
         width: 287px;
-        font-size: 16px;
         padding-top: 25px;
         padding-left: 15px;
         margin-bottom: 0;
+    }
+    .place__paragraph:nth-child(1) {
+        margin-top: 2px;
     }
 }

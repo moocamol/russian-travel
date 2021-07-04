@@ -4,7 +4,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    margin-top: 77px;
+    margin-top: 70px;
     margin-bottom: 28px;
     width: 1184px;
     max-width: 100%;
@@ -12,6 +12,7 @@
 
 @media (max-width: 1279px) {
     .footer {
+        margin-top: 77px;
         width: 928px;
     }
 }

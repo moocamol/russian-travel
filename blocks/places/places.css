@@ -10,6 +10,7 @@
 @media (max-width: 1279px) {
     .places {
         width: 928px;
+        margin-top: 98px;
     }
 }
 
@@ -17,7 +18,7 @@
     .places {
         margin-top: 91px;
         width: 720px;
-        gap: 57px;
+        gap: 59px;
     }
 }
 

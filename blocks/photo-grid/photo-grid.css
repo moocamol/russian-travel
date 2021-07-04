@@ -4,20 +4,20 @@
     align-items: center;
     position: relative;
     margin-top: 92px;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
     gap: 16px;
 }
 
 @media (max-width: 1279px) {
     .photo-grid {
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: repeat(3, 1fr);
         gap: 13px;
     }
 }
 
 @media (max-width: 1023px) {
     .photo-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(2, 1fr);
         gap: 15px;
     }
 }

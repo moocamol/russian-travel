@@ -1,10 +1,6 @@
 .footer__link {
     text-decoration: none;
     color: white;
-}
+    margin-right: 1px;
 
-@media (max-width: 1023px) {
-    .footer__link {
-        margin-right: 1px;
-    }
 }

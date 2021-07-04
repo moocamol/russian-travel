@@ -11,7 +11,7 @@
 @media (max-width: 767px) {
     .header__lang-links {
         margin: 0px;
-        padding-bottom: 8px;
-        align-items: self-end;
+        padding-bottom: 6px;
+        align-items: flex-end;
     }
 }

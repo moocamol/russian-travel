@@ -2,7 +2,6 @@
 @import url(../vendor/fonts/inter.css);
 
 @import url(../blocks/page/page.css);
-@import url(../blocks/wrapper/wrapper.css);
 @import url(../blocks/content/content.css);
 
 @import url(../blocks/link/link.css);
@@ -39,7 +38,6 @@
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__wrapper/cover__wrapper.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
